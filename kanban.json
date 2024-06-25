@@ -1,0 +1,37 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [],
+            "id": "ed82hcjdks6gs8aukmvl4omh",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "## Implement Binary Classification in pytorch\n* Mostly to get back into the groove, also a good opportunity to learn polars.\n* Will be used as a comparison point when we re-implement it ourself.",
+                    "id": "olatajdo0c4d0591shxk1fja"
+                }
+            ],
+            "id": "y7qnjvhw2q038l0x5iwrv2wt",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [],
+            "id": "up3u3tbt6874zgcdn1yxm3bo",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [],
+            "id": "z7n0pletzuet2jfsnlnijb8y",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1719284325856
+}
