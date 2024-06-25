@@ -14,6 +14,7 @@ ipykernel==6.29.4
 ipython==8.25.0
 jedi==0.19.1
 Jinja2==3.1.4
+joblib==1.4.2
 jupyter_client==8.6.2
 jupyter_core==5.7.2
 kiwisolver==1.4.5
@@ -42,9 +43,12 @@ pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
 pyzmq==26.0.3
+scikit-learn==1.5.0
+scipy==1.14.0
 six==1.16.0
 stack-data==0.6.3
 sympy==1.12.1
+threadpoolctl==3.5.0
 torch==2.3.1
 tornado==6.4.1
 traitlets==5.14.3
